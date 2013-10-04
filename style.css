@@ -135,7 +135,7 @@ body.sidebar-left #content_top, body.sidebar-right #content_top{padding:10px; ma
 .node .content li { margin-left: 1em; }
 
 /* cart block fixes */
-#block-uc_cart-0 { width: 200px; float: right; }
+#block-uc_cart-0 { width: 200px; float: right; position: relative; background:url(images/container.png) repeat-x top #fff; border: 1px solid #eee; }
 
 /*Misc*/
 
