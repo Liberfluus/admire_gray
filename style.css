@@ -4,7 +4,7 @@ ul, li, h1, h2, h3, h4, h5, h6{
 margin:0
 }
 
-body{ background:url(images/body.gif) repeat-x bottom #0d436b; font-family: Verdana,Tahoma,"Nimbus Sans L",arial,sans-serif; font-size:12px; }
+body{ background-color: #0d436b; font-family: Verdana,Tahoma,"Nimbus Sans L",arial,sans-serif; font-size:12px; }
 
 p{padding:5px 0 10px 0;}
 
@@ -133,6 +133,9 @@ body.sidebar-left #content_top, body.sidebar-right #content_top{padding:10px; ma
 .add-to-cart { clear: both; }
 .product-info { float: right; clear: right; }
 .node .content li { margin-left: 1em; }
+
+/* cart block fixes */
+#block-uc_cart-0 { width: 200px; float: right; }
 
 /*Misc*/
 
